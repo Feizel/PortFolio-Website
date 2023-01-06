@@ -100,7 +100,7 @@ h3 + p {
 }
 
 .About-me {
-	background-image: url("../images/fernando-hernandez-CosHjyONRk8-unsplash.jgp");
+	background-image: url("../images/fernando-hernandez-CosHjyONRk8-unsplash.jpg");
 	background-position: bottom right;
 }
 header {
@@ -113,7 +113,7 @@ header {
 .projects {
 	/*background: #2f3061;*/
 	color: white;
-	background-image: url("../images/wance-paleri-B6oexorPM_k-unsplash.jgp");
+	background-image: url("../images/wance-paleri-B6oexorPM_k-unsplash.jpg");
 	background-position: bottom right;
 }
 
@@ -148,7 +148,7 @@ header {
 -----------------------------------------*/
 .work-experience {
 	/*background: #1F2F16;*/ 
-	background-image: url("../images/jakob-owens-15IJv-APJSE-unsplash.jgp");
+	background-image: url("../images/jakob-owens-15IJv-APJSE-unsplash.jpg");
 	background-position: top right;
 	color: white;
 }
@@ -157,7 +157,7 @@ header {
 /*EDUCATION
 -----------------------------------------*/
 .education {
-	background-image: url("../images/moses-malik-roldan-HPHWtnUL0OA-unsplash.jgp");
+	background-image: url("../images/moses-malik-roldan-HPHWtnUL0OA-unsplash.jpg");
 	background-position: top left;
 	padding: 100px;
 }
@@ -169,7 +169,7 @@ header {
 footer {
 	/*background: #343434;*/
 	color: #F7FFF7;
-	background-image: url("../images/fernando-hernandez-CosHjyONRk8-unsplash.jgp");
+	background-image: url("../images/fernando-hernandez-CosHjyONRk8-unsplash.jpg");
 	background-position: bottom right;
 }
 .contact-list {
