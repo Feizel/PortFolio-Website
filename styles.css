@@ -159,6 +159,7 @@ header {
 .education {
 	background-image: url("./images/moses-malik-roldan-HPHWtnUL0OA-unsplash.jpg");
 	background-position: top left;
+	color: white;
 	padding: 100px;
 }
 .education p {
