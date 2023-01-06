@@ -90,7 +90,7 @@ h3 + p {
 }
 
 .About-me {
-	background-image: url(../images/fernando-hernandez-CosHjyONRk8-unsplash.jpg);
+	background-image: url(../images/fernando-hernandez-CosHjyONRk8-unsplash.JPG);
 	background-position: bottom right;
 }
 header {
@@ -103,7 +103,7 @@ header {
 .projects {
 	background: #F7FFF7;
 	color: white;
-	background-image: url(../images/wance-paleri-B6oexorPM_k-unsplash.jpg);
+	background-image: url(../images/wance-paleri-B6oexorPM_k-unsplash.JPG);
 	background-size: cover;
 }
 
@@ -138,7 +138,7 @@ header {
 -----------------------------------------*/
 .work-experience {
 	background: #1F2F16; 
-	background-image: url(../images/jakob-owens-15IJv-APJSE-unsplash.jpg);
+	background-image: url(../images/jakob-owens-15IJv-APJSE-unsplash.JPG);
 	background-position: top right;
 	color: white;
 }
@@ -147,7 +147,7 @@ header {
 /*EDUCATION
 -----------------------------------------*/
 .education {
-	background-image: url(../images/joanna-kosinska-unsplash.jpg);
+	background-image: url(../images/joanna-kosinska-unsplash.JPG);
 	background-size: cover;
 	background-position: top right;
 	padding: 100px;
@@ -160,7 +160,7 @@ header {
 footer {
 	background: #343434;
 	color: #F7FFF7;
-	background-image: url(../images/fernando-hernandez-CosHjyONRk8-unsplash.jpg);
+	background-image: url(../images/fernando-hernandez-CosHjyONRk8-unsplash.JPG);
 	background-position: bottom right;
 }
 .contact-list {
