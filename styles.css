@@ -230,7 +230,7 @@ footer {
 		display: block;
 		justify-content: center;
 		text-align: center;	
-		padding: 10px;
+		padding: 5px 5px 0 0;
 	}
 	.fa {
 		padding: 1px;
