@@ -101,9 +101,9 @@ header {
 /*PROJECTS 
 -----------------------------------------*/
 .projects {
-	background: #F7FFF7;
+	/*background: black;*/
 	color: white;
-	background-image: url(../images/wance-paleri-B6oexorPM_k-unsplash.JPG);
+	background-image: url(./images/wance-paleri-B6oexorPM_k-unsplash.JPG);
 	background-size: cover;
 }
 
