@@ -94,14 +94,14 @@ h3 + p {
 	background-position: bottom right;
 }
 header {
-	/*background: #2f3061;*/ 
+	background: #2f3061;
 	color: #F7FFF7;
 }
 
 /*PROJECTS 
 -----------------------------------------*/
 .projects {
-	/*background: #F7FFF7;*/
+	background: #F7FFF7;
 	color: white;
 	background-image: url(../images/wance-paleri-B6oexorPM_k-unsplash.jpg);
 	background-size: cover;
@@ -137,7 +137,7 @@ header {
 /*WORK EXPERIENCE
 -----------------------------------------*/
 .work-experience {
-	/*background: #1F2F16; */
+	background: #1F2F16; 
 	background-image: url(../images/jakob-owens-15IJv-APJSE-unsplash.jpg);
 	background-position: top right;
 	color: white;
@@ -158,7 +158,7 @@ header {
 /*CONTACT
 -----------------------------------------*/
 footer {
-	/*background: #343434;*/
+	background: #343434;
 	color: #F7FFF7;
 	background-image: url(../images/fernando-hernandez-CosHjyONRk8-unsplash.jpg);
 	background-position: bottom right;
