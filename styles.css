@@ -94,14 +94,14 @@ h3 + p {
 	background-position: bottom right;
 }
 header {
-	background: #2f3061;
+	background: black;
 	color: #F7FFF7;
 }
 
 /*PROJECTS 
 -----------------------------------------*/
 .projects {
-	/*background: black;*/
+	background: #2f3061;
 	color: white;
 	background-image: url(./images/wance-paleri-B6oexorPM_k-unsplash.JPG);
 	background-size: cover;
