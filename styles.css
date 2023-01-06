@@ -69,6 +69,16 @@ h3 + p {
 .divider > section:last-of-type {	
 	border-bottom: none;
 }
+.fa {
+	padding: 10px;
+    	font-size: 30px;
+    	width: 50px;
+    	text-align: center;
+    	text-decoration: none;
+}
+.fa:hover {
+	opacity: 0.7;
+}
 /*PROFILE
 -----------------------------------------*/
 .navbar {
@@ -94,17 +104,17 @@ h3 + p {
 	background-position: bottom right;
 }
 header {
-	background: black;
+	/*background: black;*/
 	color: #F7FFF7;
 }
 
 /*PROJECTS 
 -----------------------------------------*/
 .projects {
-	background: #2f3061;
+	/*background: #2f3061;*/
 	color: white;
 	background-image: url("../images/wance-paleri-B6oexorPM_k-unsplash.jgp");
-	background-size: cover;
+	background-position: bottom right;
 }
 
 .projects a {
@@ -137,7 +147,7 @@ header {
 /*WORK EXPERIENCE
 -----------------------------------------*/
 .work-experience {
-	background: #1F2F16; 
+	/*background: #1F2F16;*/ 
 	background-image: url("../images/jakob-owens-15IJv-APJSE-unsplash.jgp");
 	background-position: top right;
 	color: white;
@@ -147,9 +157,8 @@ header {
 /*EDUCATION
 -----------------------------------------*/
 .education {
-	background-image: url("../images/joanna-kosinska-unsplash.jgp");
-	background-size: cover;
-	background-position: top right;
+	background-image: url("../images/moses-malik-roldan-HPHWtnUL0OA-unsplash.jgp");
+	background-position: top left;
 	padding: 100px;
 }
 .education p {
@@ -158,7 +167,7 @@ header {
 /*CONTACT
 -----------------------------------------*/
 footer {
-	background: #343434;
+	/*background: #343434;*/
 	color: #F7FFF7;
 	background-image: url("../images/fernando-hernandez-CosHjyONRk8-unsplash.jgp");
 	background-position: bottom right;
@@ -207,6 +216,9 @@ footer {
 		font-size: 30px
 	}
 	.education p {
+		color: white;
+	}
+	.education p {
 		width: 100%;
 	}
 	.contact-list {
@@ -217,6 +229,13 @@ footer {
 		justify-content: center;
 		text-align: center;	
 		padding: 10px;
+	}
+	.fa {
+		padding: 1px;
+    		font-size: 3px;
+    		width: 50px;
+    		text-align: center;
+    		text-decoration: none;
 	}
 	
 }
