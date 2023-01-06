@@ -193,16 +193,26 @@ footer {
 }
 
 @media screen and (max-width:749px) {
+	body {
+		text-align: center;
+	}
 	h1 {
 		font-size: 75px;
 		line-height: 0.9;
-		margin-bottom: 20px;
+		margin-top: 120px;
+		margin-bottom: 20px
 	}
 	h2 {
 		line-height: 1;
 	}
 	.contact-list {
 		padding: 5px;
+	}
+	#navbar > ul {
+		display: block;
+		justify-content: center;
+		text-align: center;	
+		padding: 10px;
 	}
 	
 }
